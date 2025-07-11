@@ -1,0 +1,17 @@
+estructura,operacion,tamano,tiempo
+Pila,Insercion,100,0.0000
+Pila,Busqueda,100,0.0000
+Pila,Eliminacion,100,0.0000
+Pila,Actualizacion,100,0.0000
+Cola,Insercion,100,45300.0000
+Cola,Busqueda,100,0.0000
+Cola,Eliminacion,100,0.0000
+Cola,Actualizacion,100,0.0000
+Lista,Insercion,100,50060.0000
+Lista,Busqueda,100,0.0000
+Lista,Eliminacion,100,0.0000
+Lista,Actualizacion,100,0.0000
+arbol,Insercion,100,97820.0000
+arbol,Busqueda,100,0.0000
+arbol,Eliminacion,100,290.0000
+arbol,Actualizacion,100,0.0000
