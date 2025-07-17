@@ -1,4 +1,4 @@
-#include <iomanip> // 👈 Agregado para tabla formateada
+#include <iomanip> 
 
 void test(int n, const string& estructura) {
     vector<int> datos;
